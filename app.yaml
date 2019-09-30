@@ -11,4 +11,8 @@ manual_scaling:
 
 network:
   session_affinity: true
+
+env_variables:
+  DB_PASSWORD: "kot"
+  DB_USER: "edhe ky kot"
 # [END appengine_websockets_yaml]
